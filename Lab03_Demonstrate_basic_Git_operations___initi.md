@@ -20,7 +20,7 @@ git init
 Step 3: Create a Sample File
 echo "Hello, MyGit" > read.txt
 
-Step 4: Add File(s) to the Staging Area
+Step 4: Add Files) 
 git add read.txt
 git add .
 
